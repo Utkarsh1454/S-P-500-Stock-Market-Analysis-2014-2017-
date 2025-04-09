@@ -83,11 +83,11 @@ Exploratory Data Analysis
 
 Statistical Testing & Distributions
 
-👨‍💻 Author
+👨‍💻 Author:
 Name: Utkarsh Pandey
 Course: INT375
 
-📄 License
+📄 License:
 This project is for educational use only.
 ```
 
