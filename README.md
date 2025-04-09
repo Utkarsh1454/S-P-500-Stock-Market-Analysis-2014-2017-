@@ -71,7 +71,7 @@ python Project.py
 
 ```
 🎓 Academic Relevance
-This project is part of INT375 – Data Science Toolbox: Python Programming, aligning with Units 1–5:
+This project is part of INT375 – Data Science Toolbox: Python Programming:
 
 Python basics
 
