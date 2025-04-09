@@ -90,8 +90,4 @@ Course: INT375
 📄 License
 This project is for educational use only.
 ```
----
-
-Would you like this as a `.md` file download or want me to auto-generate a Jupyter Notebook with matching sections too?
-
 
