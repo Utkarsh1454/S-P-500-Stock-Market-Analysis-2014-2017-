@@ -9,6 +9,7 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 # -------------------------------------------
 # 📥 Load the Excel file
 # -------------------------------------------
+
 df = pd.read_excel("S&P 500 Stock Prices 2014-2017.xlsx")
 
 # -------------------------------------------
