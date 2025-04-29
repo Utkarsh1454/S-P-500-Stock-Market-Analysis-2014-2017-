@@ -15,6 +15,7 @@ df = pd.read_excel("S&P 500 Stock Prices 2014-2017.xlsx")
 # -------------------------------------------
 # 🧼 Initial Data Inspection and Cleaning
 # -------------------------------------------
+
 df.columns = df.columns.str.strip().str.lower()     # Clean column names
 data_info = df.info()                               # Summary info
 columns = df.columns.tolist()                       # List of columns
